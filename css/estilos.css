@@ -5,7 +5,7 @@
 }
 
 body {
-    color: #333;
+    color: blue;
     text-align: center;
     font-family: Arial, sans-serif;
 }
@@ -20,6 +20,10 @@ body {
 
 #container h1 {
     font-size: 24px;
+}
+
+#container p {
+    padding: .5em 0;
 }
 
 #cabecera {
